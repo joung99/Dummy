@@ -7,5 +7,7 @@ public class HelloGItHub {
 		System.out.println("It's collaboration");
 		System.out.println("It's DVCS");
 		System.out.println("Conflict");
+		System.out.println("Pushed");
+		
 	}
 }
